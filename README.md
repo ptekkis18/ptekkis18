@@ -1,6 +1,6 @@
 ### Hi there, I'm Tekkis 👋
 
-## I'm a Cyber Security Student
+# I'm a Cyber Security Student
 - 🔭 I’m currently doing Masters in Cyber Security
 - 🎓 Graduate with Bachelor's Degree in Computer Science
 - 💼 I’m looking for job oportunities in Cyber Security and Software Development
